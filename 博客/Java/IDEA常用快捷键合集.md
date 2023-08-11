@@ -25,3 +25,7 @@ ctrl+fn+f10+shift： 可以快速运行程序
 ---
 
 alt+insert：可以快速添加构造方法或者setter和getter方法等等（而且是可以选择的）
+
+---
+
+alt + enter ：鼠标停留在需要导包的类上，然后按alt+enter就可以快速导包
