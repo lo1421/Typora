@@ -95,7 +95,15 @@ net start  服务名称（启动对应的服务）；（没有分号）
 
 ​                                                   <img src="C:\Users\14214\AppData\Roaming\Typora\typora-user-images\image-20230716204548947.png" alt="image-20230716204548947" style="zoom:50%;" />    
 
-​                 
+服务器的名字不能写错，因为我们重新下载了MySQL，现在服务器的名字变了下。
+
+![image-20230814145225411](C:\Users\14214\AppData\Roaming\Typora\typora-user-images\image-20230814145225411.png)
+
+​                 ![image-20230814145345611](C:\Users\14214\AppData\Roaming\Typora\typora-user-images\image-20230814145345611.png)
+
+---
+
+
 
 ## 6、登录MySQL
 
