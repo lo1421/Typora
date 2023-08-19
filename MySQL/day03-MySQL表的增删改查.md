@@ -59,6 +59,8 @@
 
 - **效率问题：**
 
+  一次插一行，插多次  的效率  低于一次插多行。
+
 ![image-20230814174348507](C:\Users\14214\AppData\Roaming\Typora\typora-user-images\image-20230814174348507.png)
 
 ---
@@ -280,5 +282,24 @@ NOT或！取反 （ 意同！）
 
 ![](C:\Users\14214\Pictures\图片笔记\MySQL\MySQL-查询.png)
 
-## 
 
+
+## 4、 修改（Update）
+
+语法：
+
+update 表名 set 列名 = 值，列名 = 值... where 条件;（不写where子句表示选择对所有行进行修改，写了where子句选择指定符合条件的行进行修改）
+
+![](C:\Users\14214\Pictures\图片笔记\MySQL\MySQL-修改.png)
+
+
+
+## 5、删除
+
+语法：
+
+delete from 表名  where ;
+
+
+
+![](C:\Users\14214\Pictures\图片笔记\MySQL\MySQL-删除.png)
