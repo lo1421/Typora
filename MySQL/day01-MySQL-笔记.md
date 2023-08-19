@@ -20,7 +20,7 @@
 
 - SQL语言是一个标准，常见的数据库管理系统都可以执行SQL语句，SQL语句是一种通用的标准的语言，是一种编程语言，程序员主要学习的就是SQL语句，这个SQL在mysql中可以使用，也可以在Oracle中使用，在DB2中也可以使用。 
 
-<img src="https://pic1.zhimg.com/80/v2-d0f503193402398e748205dd10bfe944_1440w.webp" alt="img" style="zoom: 80%;" />
+<img src="C:\Users\14214\Pictures\Camera Roll\v2-d0f503193402398e748205dd10bfe944_1440w.webp" alt="img" style="zoom: 80%;" />
 
 **先安装数据库管理系统DBMS（我们这里安装MySQL），然后学习sql语句怎么写，编写sql语句之后，我们的数据库管理系统（DBMS，这里我们使用的是MySQL）对sql语句进行执行，最终完成数据库的数据管理。**
 
